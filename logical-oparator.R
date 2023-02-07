@@ -1,0 +1,9 @@
+#LOGICAL OPERATORS
+
+#AND (&) RETURN TRUE
+30>20 & 10<20 #TRUE
+
+#OR (|)
+
+
+#NOT (!)
